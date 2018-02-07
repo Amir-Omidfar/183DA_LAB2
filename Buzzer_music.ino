@@ -1,4 +1,6 @@
-/* Play Melody
+/* Main library from clay.shirky@nyu.edu with slight modifications
+ *-------------------------------------------------------------
+ * Play Melody
  * -----------
  *
  * Program to play a simple melody
