@@ -6,3 +6,5 @@ actuators. The band was then required to be functional both in autonomous and hu
 internet-based web interface. The band would also have interaction with sensors to to analyse and measure the state and would respond to # 
 possible changes using actuators.  
 
+link to landing page: https://ckwojai.github.io/EE183_JamBand/index.html
+link to youtube video: https://www.youtube.com/watch?v=FkhUbZ_ER8M
